@@ -1,12 +1,12 @@
 ----------------------------------------------------------------------------------------------------
       name:  <unnamed>
-       log:  /Users/harukatakagi/Desktop/ECO375_WA1/loWA1_Student123456789.log
+       log:  /Users/harukatakagi/Desktop/covid_analysis.log
   log type:  text
  opened on:  14 Oct 2021, 21:48:35
 
 . 
 . *LOAD DATA
-. use Student_1005053022, clear
+. use covid_data, clear
 
 . 
 . *DATA PROCESSING
@@ -353,7 +353,7 @@ large_central_metro |          0  (omitted)
 > th rates and Percent votes for GOP") graphregion(color(white))
 
 . graph export figure3_1.pdf, replace
-(file /Users/harukatakagi/Desktop/ECO375_WA1/figure3_1.pdf written in PDF format)
+(file /Users/harukatakagi/Desktop/figure3_1.pdf written in PDF format)
 
 . 
 . *Figure 3.2
@@ -361,7 +361,7 @@ large_central_metro |          0  (omitted)
 (bin=34, start=3.6756239, width=2.7207704)
 
 . graph export figure3_11.pdf, replace
-(file /Users/harukatakagi/Desktop/ECO375_WA1/figure3_11.pdf written in PDF format)
+(file /Users/harukatakagi/Desktop/figure3_11.pdf written in PDF format)
 
 . 
 . *Figure 3.3
@@ -370,14 +370,14 @@ large_central_metro |          0  (omitted)
 > tion rate") graphregion(color(white))
 
 . graph export figure3_5.pdf, replace
-(file /Users/harukatakagi/Desktop/ECO375_WA1/figure3_5.pdf written in PDF format)
+(file /Users/harukatakagi/Desktop/figure3_5.pdf written in PDF format)
 
 . 
 . 
 . * END
 . log close
       name:  <unnamed>
-       log:  /Users/harukatakagi/Desktop/ECO375_WA1/loWA1_Student123456789.log
+       log:  /Users/harukatakagi/Desktop/covid_analysis.log
   log type:  text
  closed on:  14 Oct 2021, 21:48:39
 ----------------------------------------------------------------------------------------------------
