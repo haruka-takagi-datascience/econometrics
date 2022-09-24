@@ -2,11 +2,11 @@
 ************************************************************
 
 *SETUP
-cd "/Users/harukatakagi/Desktop/ECO375_WA1"
-log using loWA1_Student123456789.log, replace
+cd "/Users/harukatakagi/Desktop"
+log using covid_analysis.log, replace
 
 *LOAD DATA
-use Student_1005053022, clear
+use covid_data, clear
 
 *DATA PROCESSING
 gen vax_full_squared = vax_full^2
