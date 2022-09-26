@@ -48,7 +48,7 @@ While our models still have many limitations that it must overcome, we draw from
 <img src="images/img_6.png">
 <img src="images/img_7.png">
 
-
+Thank you for reading!
 
 
 
