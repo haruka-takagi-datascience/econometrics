@@ -40,7 +40,7 @@ While our models still have many limitations that it must overcome, we draw from
 2. Wooldridge, Jeffrey M. 2020. Introductory Econometrics: A Modern Approach. Singapore: Cengage Learning Asia Pte Ltd.
 
 ## Appendix
-<img src="images/img_1.png">
+<img src="images/img_1.png" width="60%" height="60%">
 <img src="images/img_2.png">
 <img src="images/img_3.png">
 <img src="images/img_4.png">
